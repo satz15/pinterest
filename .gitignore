@@ -1,0 +1,25 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore .env file (environment variables file)
+.env
+
+# Ignore build directory
+build/
+
+# Ignore dependency folders
+/dist
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files (for VS Code, JetBrains, etc.)
+.vscode/
+.idea/
+
+# Ignore other files
+.env.local
